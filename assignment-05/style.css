@@ -7,7 +7,7 @@ font-family: Roboto;
 body{
 
     background-image: url(assets/headerimg.png);
-    background-size: 100%;
+    background-size: 100vw;
     background-repeat: no-repeat;
     color: white;
 }
@@ -398,7 +398,7 @@ height: 520px;
     justify-content: center;
     
 }
-.card5{
+.card5:hover,.card4:hover{
     background-color: #3782D780;
     border: 1px solid #6AB0FF
 }
